@@ -4,7 +4,7 @@ import 'firebase/auth'
 import 'firebase/database'
 
 var firebaseConfig = {
-// Firebase API KEY
+  // firebase API key
 }
 
 let firebaseApp = firebase.initializeApp(firebaseConfig)
