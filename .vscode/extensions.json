@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "octref.vetur",
+    "jcbuisson.vue"
+  ],
+  "unwantedRecommendations": [
+    "hookyqr.beautify",
+    "dbaeumer.jshint",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+}
